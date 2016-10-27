@@ -5,7 +5,7 @@ console.log('hello!');
 // $('img').hide();
 
 $('img').imageLens({
-    imageSrc: '/image-lens/img/watch-zoom.jpg',    
+    imageSrc: '/imageLens/img/watch-zoom.jpg',    
     lensSize: 400,
     borderColor: '#FFFF31'
 });
